@@ -1,0 +1,36 @@
+﻿{
+    "name": "터치 연습",
+    "short_name": "터치 연습",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#F4F1EA",
+    "theme_color": "#1E5AA8",
+    "description": "터치, 길게 누르기, 드래그를 숫자 짝 맞추기로 연습하는 게임",
+    "orientation": "any",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
+
